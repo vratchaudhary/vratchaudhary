@@ -1,6 +1,6 @@
 
 ![Linkedin2](https://user-images.githubusercontent.com/32778613/140745763-32e38bf1-7f2a-467b-bb05-d4d08beff198.png)
-### Hi there 👋 I am Vratika 
+# Hi there 👋 I am Vratika 
 
 
 # 🔭 I’m currently working on:
@@ -12,7 +12,7 @@
 - Carbon accounting and ESG standards
 - Food history and Food Science 
 - Spanish language
-## 👯 I’m looking to collaborate on 
+# 👯 I’m looking to collaborate on 
 - Projects with meaningful environmental impact
 - R statistics
 - End-to-end project management
