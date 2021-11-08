@@ -15,18 +15,17 @@
 ## 👯 I’m looking to collaborate on 
 - Projects with meaningful environmental impact
 - R statistics
+- End-to-end project management
 
 # 💬 Ask me about 
 - Biodiversity Conservation
 - Decision Science
 - R programing language 
 
-# 📫 How to reach me: 
-- Email: chaudharyv@ufl.edu
-- ### 🤝 Connect with me:
+# 🤝 Connect with me:
+<a href= "mailto:chaudharyv@ufl.edu"><img align="left" src= "https://github.com/vratchaudhary/netifyportfolio/blob/7080048442c896673af9626b0e4ee7fa3605ec70/content/About/iu_2.png" width="21px"/></a> <a href= "https://www.linkedin.com/in/vratika-chaudhary/"><img align="left" src= "https://github.com/vratchaudhary/netifyportfolio/blob/b7d3fdd4032b38faa897a73068d2b4a3b48e7862/content/About/In-Blue-128@2x.png" width="21px"/></a> <a href= "https://www.vratikachaudhary.com/about/"><img align="left" src= "https://github.com/vratchaudhary/netifyportfolio/blob/7080048442c896673af9626b0e4ee7fa3605ec70/content/About/iu.jpg" width="21px"/></a>
 
-<ahref= "https://www.linkedin.com/in/vratika-chaudhary/"><img align= ”left”src=”https://github.com/vratchaudhary/netifyportfolio/blob/b7d3fdd4032b38faa897a73068d2b4a3b48e7862/content/About/In-Blue-128@2x.png" alt=”Vratika Chaudhary|LinkedIn” width=”21px”/></a>
-</br>
+
 # 😄 Pronouns: She/her
 
 
