@@ -24,7 +24,7 @@
 
 # 🤝 Connect with me:
 <a href= "mailto:chaudharyv@ufl.edu"><img align="left" src= "https://github.com/vratchaudhary/netifyportfolio/blob/7080048442c896673af9626b0e4ee7fa3605ec70/content/About/iu_2.png" width="21px"/></a> <a href= "https://www.linkedin.com/in/vratika-chaudhary/"><img align="left" src= "https://github.com/vratchaudhary/netifyportfolio/blob/b7d3fdd4032b38faa897a73068d2b4a3b48e7862/content/About/In-Blue-128@2x.png" width="21px"/></a> <a href= "https://www.vratikachaudhary.com/about/"><img align="left" src= "https://github.com/vratchaudhary/netifyportfolio/blob/7080048442c896673af9626b0e4ee7fa3605ec70/content/About/iu.jpg" width="21px"/></a>
-
+</br>
 
 # 😄 Pronouns: She/her
 
