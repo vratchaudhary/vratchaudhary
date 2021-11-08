@@ -25,9 +25,8 @@
 - Email: chaudharyv@ufl.edu
 - ### 🤝 Connect with me:
 
-<a href="www.linkedin.com/in/vratika-chaudhary/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png![image](https://user-images.githubusercontent.com/32778613/140747846-747e6bba-658a-4810-9ecd-6b8795be7b91.png"></a>
-
- 
+<a href= "https://www.linkedin.com/in/vratika-chaudhary/"><img align= ”left” src=”https://github.com/vratchaudhary/netifyportfolio/blob/b7d3fdd4032b38faa897a73068d2b4a3b48e7862/content/About/In-Blue-128@2x.png" alt=”Vratika Chaudhary|LinkedIn” width=”21px”/></a>
+</br>
 # 😄 Pronouns: She/her
 
 
