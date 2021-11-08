@@ -2,7 +2,6 @@
 ![Linkedin2](https://user-images.githubusercontent.com/32778613/140745763-32e38bf1-7f2a-467b-bb05-d4d08beff198.png)
 ### Hi there 👋 I am Vratika 
 
-Here are some ideas to get you started:
 
 # 🔭 I’m currently working on:
  - decision analysis to find optimal solve natural resource management problems
@@ -24,6 +23,11 @@ Here are some ideas to get you started:
 
 # 📫 How to reach me: 
 - Email: chaudharyv@ufl.edu
-- 
+- ### 🤝 Connect with me:
+
+<a href="www.linkedin.com/in/vratika-chaudhary/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png![image](https://user-images.githubusercontent.com/32778613/140747846-747e6bba-658a-4810-9ecd-6b8795be7b91.png"></a>
+
+ 
 # 😄 Pronouns: She/her
+
 
