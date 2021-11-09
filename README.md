@@ -4,14 +4,16 @@
 
 
 # 🔭 I’m currently working on:
- - decision analysis to find optimal solve natural resource management problems
- - statistical models for biodiversity monitoring
+ - Decision analysis to find optimal solve natural resource management problems
+ - Statistical models for biodiversity monitoring
  - Business forecasting and developing go-to-market projects for social impact businesses
  - Restoring and protecting the optimal landscapes for future climate scenarios
 # 🌱 I’m currently learning 
-- Carbon accounting and ESG standards
+- ESG standards
 - Food history and Food Science 
 - Spanish language
+- Process based models
+
 # 👯 I’m looking to collaborate on 
 - Projects with meaningful environmental impact
 - R statistics
